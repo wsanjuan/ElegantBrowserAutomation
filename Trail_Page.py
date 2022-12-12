@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
-from Base_Element_19 import BaseElement
-from Base_Page_19 import BasePage
+from Base_Element import BaseElement
+from Base_Page import BasePage
 
 class TrailPage(BasePage):
     url = 'https://techstepacademy.com/trial-of-the-stones/'
