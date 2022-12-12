@@ -1,7 +1,7 @@
 #Our Test
 from selenium import webdriver
 from selenium.webdriver.common.alert import Alert
-from PageObject_18 import TrainingGroundPage
+from Training_Page_18 import TrainingGroundPage
 from Base_Element_18 import BaseElement
 
 #Test Setup
