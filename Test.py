@@ -14,6 +14,7 @@ trial_Page = TrailPage(driver=browser)
 trial_Page.go()
 trial_Page.stone_input().input_text("rock")
 trial_Page.stone_button.click()
+input()
 
 #Training Grounds
 training_Page = TrainingGroundPage(driver=browser)
